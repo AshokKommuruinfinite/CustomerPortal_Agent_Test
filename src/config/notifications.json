@@ -1,0 +1,9 @@
+{
+  "heading": "Notifications",
+  "emptyState": "No notifications yet",
+  "categories": [
+    "Account Activity",
+    "Security Alerts"
+  ],
+  "defaultChannel": "email"
+}

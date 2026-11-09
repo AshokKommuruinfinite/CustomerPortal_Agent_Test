@@ -1,0 +1,8 @@
+{
+  "heading": "Security Settings",
+  "actions": {
+    "password": "Change Password",
+    "mfa": "Manage Two-Factor Authentication"
+  },
+  "sessionTimeoutMinutes": 30
+}

@@ -1,0 +1,19 @@
+{
+  "heading": "Account Overview",
+  "widgets": [
+    {
+      "id": "welcome",
+      "title": "Welcome Back"
+    },
+    {
+      "id": "summary",
+      "title": "Account Summary"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "My Profile",
+      "route": "/account"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "locale": "en-US",
+  "theme": "light",
+  "configRoot": "src/config",
+  "featureFlags": {
+    "accountDetails": true,
+    "notifications": true,
+    "security": true
+  }
+}

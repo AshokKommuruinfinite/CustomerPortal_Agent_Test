@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "home",
+      "label": "Overview",
+      "route": "/dashboard"
+    },
+    {
+      "id": "customer",
+      "label": "My Profile",
+      "route": "/account"
+    },
+    {
+      "id": "alerts",
+      "label": "Notifications",
+      "route": "/notifications"
+    },
+    {
+      "id": "security",
+      "label": "Security",
+      "route": "/security"
+    }
+  ]
+}

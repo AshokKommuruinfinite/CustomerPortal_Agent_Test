@@ -1,0 +1,13 @@
+{
+  "heading": "Help Center",
+  "articles": [
+    {
+      "title": "How to Edit Profile",
+      "slug": "edit-profile"
+    },
+    {
+      "title": "Manage Account Alerts",
+      "slug": "account-alerts"
+    }
+  ]
+}

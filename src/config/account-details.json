@@ -1,0 +1,43 @@
+{
+  "screenId": "customer-details",
+  "heading": "My Account",
+  "sections": [
+    {
+      "id": "contact",
+      "title": "Contact Details",
+      "fields": [
+        {
+          "key": "fullName",
+          "label": "Full Name",
+          "required": true
+        },
+        {
+          "key": "email",
+          "label": "Email Address",
+          "required": true
+        },
+        {
+          "key": "phone",
+          "label": "Mobile Number",
+          "required": false
+        }
+      ]
+    }
+  ],
+  "actions": {
+    "primary": {
+      "id": "edit",
+      "label": "Edit Account",
+      "enabled": true
+    },
+    "secondary": {
+      "id": "cancel",
+      "label": "Cancel",
+      "enabled": true
+    }
+  },
+  "validation": {
+    "emailPattern": "^[^@]+@[^@]+$",
+    "phoneMaxLength": 15
+  }
+}
